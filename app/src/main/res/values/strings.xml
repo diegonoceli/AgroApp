@@ -1,3 +1,20 @@
 <resources>
     <string name="app_name">AgroApp</string>
+    <string name="title_activity_tela_inicial">Bem vindo ao aplica IF RP</string>
+    <string name="tab_text_1">Tab 1</string>
+    <string name="tab_text_2">Tab 2</string>
+    <string name="tab_text_3">Tab 3</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_secao2">Secao2</string>
+    <string name="textotutorial"><b><center>Tutorial do “Aplica IF RP”\n</center></b>
+        O Aplica IF RP é uma ferramenta gratuita desenvolvida por profissionais do campus Rio Pomba do IF Sudeste MG para auxiliar técnicos agrícolas e interessados na aplicação de defensivos agrícolas. O aplicativo dispõe de três (3) seções ágeis, simples e precisas para facilitar o trabalho dos profissionais na calibração de pulverizadores em campo, sendo elas:\n
+        <b>Seção 1:</b> Essa seção calcula a quantidade de produto a ser colocada no tanque do pulverizador em cada reabastecimento.\n
+        <b>Seção 2:</b> A segunda seção do app relaciona a pressão do sistema e vazão nas pontas do pulverizador por meio da equação Q1/Q2= √¯P1/√¯P2. A janela 1 da seção permite ao profissional estimar a pressão necessária para atingir uma nova vazão de caldas nas pontas, enquanto que a janela 2 abre espaço para o técnico agrícola calcular a nova vazão nos bicos do implemento agrícola quando a pressão for reajustada para um novo valor.\n
+        <b>Seção 3:</b> Relaciona o espaçamento entre pontas, velocidade de deslocamento da máquina agrícola, vazão nas pontas e volume de calda aplicada através da equação Q= q . 600/v .e . Na primeira aba da seção o responsável técnico pode estimar o volume de caldas aplicado por hectare para uma regulagem e calibração do implemento e, na aba dois (2), calcular a vazão nas pontas de pulverização para uma dada configuração.\n\n
+        A equipe desenvolvedora agradece a sua opção pelo aplicativo e fica à disposição para dúvidas e/ou sugestões.
+    </string>
 </resources>
